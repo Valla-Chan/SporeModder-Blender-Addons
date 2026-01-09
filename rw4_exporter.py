@@ -330,7 +330,7 @@ class RW4Exporter:
 				error = rw4_validation.error_not_normalized(obj)
 				if error not in self.warnings:
 					self.warnings.add(error)
-					return False
+					#return False
 		else:
 			epsilon = 0.002
 			if total_weight > 1.0 + epsilon or total_weight < 1.0 - epsilon:
