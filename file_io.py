@@ -290,6 +290,7 @@ SPORE_NAMES = {
 	0x2D3BFA19: 'DeformAxisRight',
 	0x7CC96C02: 'DeformAxisLeft',
 	0xD02751DE: 'DeformAxisUp',
+	0x8BE5E018: 'DeformAxisUpB',
 	0xE6F2C2B9: 'DeformAxisDown',
 	0x884317A9: 'DeformBoneBaseJoint',
 	0x1B486C71: 'DeformBoneEndJoint',
